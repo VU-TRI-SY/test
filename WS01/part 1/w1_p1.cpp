@@ -31,6 +31,7 @@
 	//   3: third argument
 	//   ...
 
+	cout << "New" << endl;
 
 	std::cout << "--------------------------\n\n";
 
